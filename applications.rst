@@ -24,6 +24,7 @@ Applications
    mobile/firebase
    social_marketing
    sms_marketing
+   survey
    fsm
    planning
    general
